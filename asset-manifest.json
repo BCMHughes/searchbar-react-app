@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/searchbar-react-app/static/css/main.4a966e5b.chunk.css",
+    "main.js": "/searchbar-react-app/static/js/main.a25dbedb.chunk.js",
+    "main.js.map": "/searchbar-react-app/static/js/main.a25dbedb.chunk.js.map",
+    "runtime-main.js": "/searchbar-react-app/static/js/runtime-main.672b62f0.js",
+    "runtime-main.js.map": "/searchbar-react-app/static/js/runtime-main.672b62f0.js.map",
+    "static/js/2.de1ca534.chunk.js": "/searchbar-react-app/static/js/2.de1ca534.chunk.js",
+    "static/js/2.de1ca534.chunk.js.map": "/searchbar-react-app/static/js/2.de1ca534.chunk.js.map",
+    "index.html": "/searchbar-react-app/index.html",
+    "precache-manifest.05b5f0ec6cf636bf9cf0a46a7d84eed5.js": "/searchbar-react-app/precache-manifest.05b5f0ec6cf636bf9cf0a46a7d84eed5.js",
+    "service-worker.js": "/searchbar-react-app/service-worker.js",
+    "static/css/main.4a966e5b.chunk.css.map": "/searchbar-react-app/static/css/main.4a966e5b.chunk.css.map",
+    "static/js/2.de1ca534.chunk.js.LICENSE.txt": "/searchbar-react-app/static/js/2.de1ca534.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.672b62f0.js",
+    "static/js/2.de1ca534.chunk.js",
+    "static/css/main.4a966e5b.chunk.css",
+    "static/js/main.a25dbedb.chunk.js"
+  ]
+}
